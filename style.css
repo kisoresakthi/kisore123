@@ -1,0 +1,67 @@
+h1{
+    color: tomato; 
+}
+body{
+    background:black;
+}
+.section1{
+     text-align: center; background-color:black;
+}
+.image1{
+    height: 150%; 
+    width: 150px;
+    
+}
+p{
+    color:tomato; font-family: Arial, Helvetica, sans-serif;
+}
+.section2{
+    background-color:black; color: tomato;
+
+    
+}
+.section2 p{
+    color: antiquewhite;
+}
+.image2{
+    height: 370px;
+    width: 370px;
+}
+.image3{
+    height: 270px;
+    width: 270px;
+}
+.section3 {
+    background-color:black;
+    
+}
+.table1{
+    color:tomato;
+}
+.table1,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.table2{
+    color: tomato;
+}
+.table2,th,td{
+    border:1px solid;
+    border-collapse:collapse;
+
+}
+.table2{
+    transform: rotate(180deg);
+}
+.section4{
+    color:tomato;background-color:black;
+    
+}
+.section4 video{
+ width: 350px;
+    width: 350px;
+}
+.section5{
+    color:tomato;background-color:black;
+}
+
